@@ -2,7 +2,7 @@
 
 Welcome to **Portfolio 2023**, my personal developer portfolio website built with HTML, CSS, and JavaScript — designed to showcase my skills, projects, and contact information. 🚀
 
-🔗 **Live Demo:** https://portfolio-2023-lovat.vercel.app (if deployed) :contentReference[oaicite:1]{index=1}
+🔗 **Live Demo:** https://jamaliya-cse.netlify.app/ (if deployed) :contentReference[oaicite:1]{index=1}
 
 ---
 
